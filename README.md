@@ -11,7 +11,7 @@ composer install
 
 ### 2. Configure Cloudinary
 
-1. Change `env_template` to `.env` and replace the placeholders with your actual Cloudinary URL:
+1. Change the `env_template` file to `.env` and replace the placeholders with your actual Cloudinary URL:
    ```
    CLOUDINARY_URL=cloudinary://your_api_key:your_api_secret@your_cloud_name
    ```
